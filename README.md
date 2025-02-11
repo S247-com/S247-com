@@ -1,5 +1,7 @@
 # 🐍 My Python Portfolio  
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+
 👋 Assalomu alaykum! Men [Ismingiz] – Python dasturchisiman. Bu repozitoriyda eng yaxshi loyihalarimni jamlaganman.  
 
 ## 🚀 Mening Texnologik Stakim  
@@ -22,6 +24,3 @@
 📧 Email: your.email@example.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🔗 [GitHub](https://github.com/yourusername)
-
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
